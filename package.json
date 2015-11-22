@@ -4,7 +4,7 @@
   "description": "",
   "main": "gruntfile.js",
   "dependencies": {
-    "stache-barebones": "file:../stache-barebones",
+    "stache-barebones": "https://github.com/Blackbaud-SteveBrush/stache-barebones.git",
     "grunt": "^0.4.5"
   },
   "devDependencies": {},
